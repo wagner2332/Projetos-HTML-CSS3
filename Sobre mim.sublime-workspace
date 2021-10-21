@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"MARGIN",
+				"margin-left"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"purpl",
+				"rebeccapurple"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"head",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Emmet plugin installed\n\n  Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.\n\n  With Emmet, you can type expressions (abbreviations) similar to CSS selectors and convert them into code fragment with a single keystroke. For example, this abbreviation:\n\n  ul#nav>li.item$*4>a{Item $}\n\n  ...can be expanded into:\n\n  <ul id=\"nav\">\n      <li class=\"item1\"><a href=\"\">Item 1</a></li>\n      <li class=\"item2\"><a href=\"\">Item 2</a></li>\n      <li class=\"item3\"><a href=\"\">Item 3</a></li>\n      <li class=\"item4\"><a href=\"\">Item 4</a></li>\n  </ul>\n\n  Read more about Emmet for Sublime Text:\n  https://github.com/emmetio/sublime-text-plugin#readme",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Emmet plugin installed\n\n  Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.\n\n  With Emmet, you can type expressions (abbreviations) similar to CSS selectors and convert them into code fragment with a single keystroke. For example, this abbreviation:\n\n  ul#nav>li.item$*4>a{Item $}\n\n  ...can be expanded into:\n\n  <ul id=\"nav\">\n      <li class=\"item1\"><a href=\"\">Item 1</a></li>\n      <li class=\"item2\"><a href=\"\">Item 2</a></li>\n      <li class=\"item3\"><a href=\"\">Item 3</a></li>\n      <li class=\"item4\"><a href=\"\">Item 4</a></li>\n  </ul>\n\n  Read more about Emmet for Sublime Text:\n  https://github.com/emmetio/sublime-text-plugin#readme"
+					},
+					"KQAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKUAAAAAAAAAAAAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAABSAQAAAAAAAAAAAABSAQAAAAAAAFMBAAAAAAAAAAAAAFMBAAAAAAAAVAEAAAAAAAAAAAAAVAEAAAAAAABxAQAAAAAAAAAAAABxAQAAAAAAAHIBAAAAAAAAAAAAAHIBAAAAAAAAcwEAAAAAAAAAAAAAcwEAAAAAAACNAQAAAAAAAAAAAACNAQAAAAAAAI4BAAAAAAAAAAAAAI4BAAAAAAAAjwEAAAAAAAAAAAAAjwEAAAAAAACeAQAAAAAAAAAAAACeAQAAAAAAAJ8BAAAAAAAAAAAAAJ8BAAAAAAAA0QEAAAAAAAAAAAAA0QEAAAAAAADSAQAAAAAAAAAAAADSAQAAAAAAAAQCAAAAAAAAAAAAAAQCAAAAAAAABQIAAAAAAAAAAAAABQIAAAAAAAA3AgAAAAAAAAAAAAA3AgAAAAAAADgCAAAAAAAAAAAAADgCAAAAAAAAagIAAAAAAAAAAAAAagIAAAAAAABrAgAAAAAAAAAAAABrAgAAAAAAAHICAAAAAAAAAAAAAHICAAAAAAAAcwIAAAAAAAAAAAAAcwIAAAAAAAB0AgAAAAAAAAAAAAB0AgAAAAAAAJ0CAAAAAAAAAAAAAJ0CAAAAAAAAngIAAAAAAAAAAAAAngIAAAAAAADVAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/Formulario/formulario1.css",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/Formulario/formulario1.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/Formulario/formulario.css",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/Formulario/formulario.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/Starbucks/starbucks.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/Starbucks/css/style.css",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html sobre mim/Sobre mim.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/estilo.css",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/pages/layout.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/estilo css.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/link.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/pages/lista.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/pages/estrutura.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/estrutura.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/primeiro.html",
+		"/C/Users/WAGNER/OneDrive/Área de Trabalho/html/titulos.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								725,
+								725
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sobre mim.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
